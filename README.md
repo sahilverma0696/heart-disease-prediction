@@ -3,7 +3,7 @@ The project predicts coronary heart disease by using 3 ML models - Support Vecto
 
 
 ## Prerequisites
-Anaconda ( Python -3.6 ), Tensorflow as backend, Keras 
+Anaconda ( Python -3.6 ), Keras 
 
 ## Data Set : South Africa Heart Disease Dataset
 Open ML : https://www.openml.org/d/1498
